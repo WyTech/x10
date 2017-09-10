@@ -1,4 +1,4 @@
-#X10 Stuff
+# X10 Stuff
 
 These are code examples for AVR processors to interface directly with X10 serial computer modules.
 This code is designed to work with the VS4T1 video switch which is just a ATTiny2313 and MAX232 circuit.
