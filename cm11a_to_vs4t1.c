@@ -1,6 +1,6 @@
 // VS4T1 Video/Audio 4-to-1 switching cable controller
 // XVideo10 X-10 controlled video switch example
-// (C) 2012 Alan Capesius Licensed to Tech World Inc.
+// (C) 2012 Tech World Inc.
 // The sample code released under Open Source Expat MIT License
 // See license-mit-expat.txt for details
 

@@ -1,6 +1,6 @@
 // VS4T1 Video/Audio 4-to-1 switching cable controller
 // XVideo10 VS4T1-to-CM11A video switch firmware
-// (C) 2013 Alan Capesius 
+// (C) 2013 Tech World Inc 
 // The code released under Open Source Expat MIT License
 // See license-mit-expat.txt for details
 
